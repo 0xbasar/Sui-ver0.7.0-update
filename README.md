@@ -1,5 +1,7 @@
 # Sui-ver0.7.0-update
 Sui-ver0.7.0 update
+
+
 systemctl stop suid
 
 rm -rf /var/sui/db/* /var/sui/genesis.blob $HOME/sui
