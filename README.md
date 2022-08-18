@@ -30,6 +30,3 @@ wget -O /var/sui/genesis.blob https://github.com/MystenLabs/sui-genesis/raw/main
 
 systemctl restart suid
 
-
-[suid.md](https://github.com/0xbasar/Sui-ver0.7.0-update/files/9371568/suid.md)
-
