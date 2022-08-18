@@ -2,7 +2,7 @@
 
 
 
-'systemctl stop suid'
+systemctl stop suid
 
 rm -rf /var/sui/db/* /var/sui/genesis.blob $HOME/sui
 
